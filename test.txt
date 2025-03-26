@@ -1,3 +1,5 @@
 testing syntax adding some thing
 line 2 test
 Tesitng pull from the repository
+
+tesint push in Practice_2
